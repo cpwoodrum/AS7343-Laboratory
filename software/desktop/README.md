@@ -4,6 +4,6 @@ This directory contains the Python software used to control the AS7343 Laborator
 
 The current saved working baseline is:
 
-- `Instrument_v9.py`
+- `Instrument_v11_4.py`
 
 Future versions should be added without overwriting validated releases unless the change is intentionally documented.
