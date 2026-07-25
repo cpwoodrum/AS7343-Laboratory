@@ -9,3 +9,14 @@ Planned contents include:
 - Required CircuitPython libraries
 - Installation and update instructions
 - Saved, tested firmware releases
+## Current Firmware Baseline
+
+The current saved and tested Raspberry Pi Pico firmware is:
+
+- `Code.py`
+
+This file is intended to operate with the desktop interface:
+
+- `software/desktop/Instrument_v11_4.py`
+
+Future validated versions should be preserved rather than overwritten.
