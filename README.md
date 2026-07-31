@@ -26,8 +26,8 @@ The laboratory platform has been evaluated against a Thermo Electron Spectronic 
 - Kinetic measurements
 - CSV data export
 - Calibration curve generation
-- Quantitative nitrate analysis
-- Instrument validation
+- Colorimetric assay development and validation
+- Instrument performance evaluation and validation
   
 
 ## Philosophy
